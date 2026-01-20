@@ -9,7 +9,7 @@
 **`Dev Estudante`**
 <img align="right" alt="" height="150px" src="https://github.com/user-attachments/assets/9faa5e75-4a44-4d8a-9ac3-2c116fcba639">
 
-### Olá, me chamo Alex Leite, tenho 26 anos e estou estudando para ser programador, atualmente estou estudando javascript, junto de html, css e React. Desejo me tornar um desenvolvedor de aplicativos moveis, este é meu objetivo.
+### Olá, me chamo Alex Leite, tenho 27 anos e estou estudando para ser programador, atualmente estou estudando javascript, junto de html, css e React. Desejo me tornar um desenvolvedor de aplicativos moveis.
 
 ### "Em tudo que fizerem, trabalhem de bom ânimo, como se fosse para o Senhor, e não para os homens."
 
